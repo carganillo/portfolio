@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3d973f761d3a5880aece5811df4d7db5",
+  "assets/AssetManifest.json": "f18fa7c04dba9fc28a0ee7a4ec19a33e",
 "assets/assets/brand1.png": "f3a3a0de79048e1f14aac62ec76609b8",
 "assets/assets/brand2.png": "91c6d8820e35e10e39757e0de6ac4345",
 "assets/assets/brand3.png": "c0915a84744f3481a2105c5aea6727e0",
@@ -11,6 +11,8 @@ const RESOURCES = {
 "assets/assets/brand5.png": "fc57e9a9ff95830ea207e2452ffd4bd6",
 "assets/assets/design.png": "6aaec412d8837ac9a83f03f453877606",
 "assets/assets/develop.png": "471c2c94d5d04112086eba9fd78c6809",
+"assets/assets/drinklinkapp.jpg": "8011489645889e69cf0f164342bc0489",
+"assets/assets/drinklinkapp.png": "81322e6c15c836566186056d9e097aa5",
 "assets/assets/email.png": "5eb3c4b86aafbee72b8c471b29413a50",
 "assets/assets/female.png": "29c52b49d99a5de88d34ab04aafe3f59",
 "assets/assets/ios.png": "49f79e21da11e96b8cf0e3b8bef6616c",
@@ -53,10 +55,10 @@ const RESOURCES = {
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "5d2ab9bca390d5aac495466b078e0419",
-"/": "5d2ab9bca390d5aac495466b078e0419",
+"index.html": "21f6f541dfb6ef3804dfb04264b98594",
+"/": "21f6f541dfb6ef3804dfb04264b98594",
 "loader.css": "f61841a48de5b79316184d950976284a",
-"main.dart.js": "02fca6ab92ff3738cb941d2a672983ee",
+"main.dart.js": "4de8821c3f6e44ff20d347ae1b5d1003",
 "manifest.json": "33f800ebfef064613f8dec323b266c5b",
 "version.json": "bd341ba74d38c530da636604a427deda"
 };
